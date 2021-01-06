@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bc48d1a-6c77-4784-8b8b-1c2b2dbbf6ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/labs-week1/src/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week1/src/Artwork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week1/src/ArtworkLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week2/labs-week2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week2/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week2/src/PetInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609789859891</updated>
       <workItem from="1609789863663" duration="19000" />
-      <workItem from="1609789932059" duration="8939000" />
+      <workItem from="1609789932059" duration="9787000" />
     </task>
     <servers />
   </component>
@@ -86,10 +87,11 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="698" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1609817967195">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state x="698" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1609944103540">
+      <screen x="0" y="25" width="1920" height="977" />
     </state>
     <state x="698" y="236" key="#com.intellij.ide.util.MemberChooser/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1609817967195" />
+    <state x="698" y="220" key="#com.intellij.ide.util.MemberChooser/1920.25.1920.1055/0.25.1920.977@0.25.1920.977" timestamp="1609944103540" />
     <state x="698" y="221" key="#com.intellij.ide.util.MemberChooser/1920.25.1920.1055/0.25.1920.979@0.25.1920.979" timestamp="1609816447911" />
     <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1609817312813">
       <screen x="0" y="25" width="1920" height="1055" />
@@ -123,10 +125,11 @@
       <screen x="0" y="25" width="1920" height="979" />
     </state>
     <state x="665" y="283" key="chooseDestDirectoryDialog/1920.25.1920.1055/0.25.1920.979@0.25.1920.979" timestamp="1609790804173" />
-    <state x="217" y="184" key="new project wizard" timestamp="1609790184703">
-      <screen x="0" y="25" width="1920" height="977" />
+    <state x="217" y="197" key="new project wizard" timestamp="1609943432803">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="217" y="184" key="new project wizard/1920.25.1920.1055/0.25.1920.977@0.25.1920.977" timestamp="1609790184703" />
+    <state x="217" y="197" key="new project wizard/1920.25.1920.977/0.25.1920.1055@0.25.1920.1055" timestamp="1609943432803" />
     <state x="550" y="270" width="670" height="676" key="search.everywhere.popup" timestamp="1609814473618">
       <screen x="0" y="25" width="1920" height="979" />
     </state>
