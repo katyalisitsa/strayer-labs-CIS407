@@ -1,6 +1,6 @@
 // TODO: Define a class: StringInstrument that is derived from the Instrument class
 public class StringInstrument extends Instrument {
-    
+
     private int numStrings;
     private int numFrets;
 

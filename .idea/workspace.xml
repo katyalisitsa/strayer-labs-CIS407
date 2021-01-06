@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bc48d1a-6c77-4784-8b8b-1c2b2dbbf6ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/labs-week2/src/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week2/src/InstrumentInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week2/src/StringInstrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week2/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week2/src/OfferedCourse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs-week2/src/StringInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/labs-week2/src/StringInstrument.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609789859891</updated>
       <workItem from="1609789863663" duration="19000" />
-      <workItem from="1609789932059" duration="11163000" />
+      <workItem from="1609789932059" duration="11851000" />
     </task>
     <servers />
   </component>
