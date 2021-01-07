@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bc48d1a-6c77-4784-8b8b-1c2b2dbbf6ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/labs-week2/src/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week2/src/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week2/src/PlantArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week3/labs-week3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week3/src/ArrayListLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week3/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week3/src/BookNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week3/src/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week3/src/LinkedListLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +98,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609789859891</updated>
       <workItem from="1609789863663" duration="19000" />
-      <workItem from="1609789932059" duration="18525000" />
+      <workItem from="1609789932059" duration="19567000" />
+      <workItem from="1610038228430" duration="2671000" />
     </task>
     <servers />
   </component>
@@ -144,9 +149,10 @@
       <screen x="0" y="25" width="1920" height="977" />
     </state>
     <state x="655" y="174" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.25.1920.1055/0.25.1920.977@0.25.1920.977" timestamp="1609953879340" />
-    <state x="217" y="197" key="new project wizard" timestamp="1609943432803">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state x="217" y="183" key="new project wizard" timestamp="1610038289459">
+      <screen x="0" y="25" width="1920" height="970" />
     </state>
+    <state x="217" y="183" key="new project wizard/1920.25.1920.1055/0.25.1920.970@0.25.1920.970" timestamp="1610038289459" />
     <state x="217" y="184" key="new project wizard/1920.25.1920.1055/0.25.1920.977@0.25.1920.977" timestamp="1609790184703" />
     <state x="217" y="197" key="new project wizard/1920.25.1920.977/0.25.1920.1055@0.25.1920.1055" timestamp="1609943432803" />
     <state x="550" y="270" width="670" height="676" key="search.everywhere.popup" timestamp="1609814473618">

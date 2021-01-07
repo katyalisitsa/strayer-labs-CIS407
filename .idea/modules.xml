@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/labs-week1/labs-week1.iml" filepath="$PROJECT_DIR$/labs-week1/labs-week1.iml" />
       <module fileurl="file://$PROJECT_DIR$/labs-week2/labs-week2.iml" filepath="$PROJECT_DIR$/labs-week2/labs-week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs-week3/labs-week3.iml" filepath="$PROJECT_DIR$/labs-week3/labs-week3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/strayer-labs-CIS407.iml" filepath="$PROJECT_DIR$/.idea/strayer-labs-CIS407.iml" />
     </modules>
   </component>
