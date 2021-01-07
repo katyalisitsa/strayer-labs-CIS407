@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bc48d1a-6c77-4784-8b8b-1c2b2dbbf6ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/labs-week3/labs-week3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week3/src/ArrayListLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week3/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week3/src/BookNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week3/src/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week3/src/LinkedListLibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week3/src/MileageTrackerLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week3/src/MileageTrackerNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +36,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.PlantArrayListExample">
+  <component name="RunManager" selected="Application.MileageTrackerLinkedList">
     <configuration name="ArtworkLabel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArtworkLabel" />
       <module name="labs-week1" />
@@ -56,16 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlantArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PlantArrayListExample" />
-      <module name="labs-week2" />
+    <configuration name="MileageTrackerLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MileageTrackerLinkedList" />
+      <module name="labs-week3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TriangleArea" />
-      <module name="labs-week1" />
+    <configuration name="PlantArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlantArrayListExample" />
+      <module name="labs-week2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MileageTrackerLinkedList" />
         <item itemvalue="Application.PlantArrayListExample" />
         <item itemvalue="Application.InstrumentInformation" />
         <item itemvalue="Application.ArtworkLabel" />
         <item itemvalue="Application.WinningTeam" />
-        <item itemvalue="Application.TriangleArea" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +94,7 @@
       <updated>1609789859891</updated>
       <workItem from="1609789863663" duration="19000" />
       <workItem from="1609789932059" duration="19567000" />
-      <workItem from="1610038228430" duration="2671000" />
+      <workItem from="1610038228430" duration="7901000" />
     </task>
     <servers />
   </component>
@@ -113,30 +108,54 @@
     <state x="698" y="236" key="#com.intellij.ide.util.MemberChooser/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1609817967195" />
     <state x="698" y="220" key="#com.intellij.ide.util.MemberChooser/1920.25.1920.1055/0.25.1920.977@0.25.1920.977" timestamp="1609944103540" />
     <state x="698" y="221" key="#com.intellij.ide.util.MemberChooser/1920.25.1920.1055/0.25.1920.979@0.25.1920.979" timestamp="1609950334359" />
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1609949306932">
-      <screen x="0" y="25" width="1920" height="977" />
+    <state width="431" height="466" key="DebuggerActiveHint" timestamp="1610057029855">
+      <screen x="927" y="-1055" width="1920" height="1055" />
     </state>
+    <state width="431" height="466" key="DebuggerActiveHint/0.25.1440.804/927.-1055.1920.1055/-993.-1055.1920.1055@927.-1055.1920.1055" timestamp="1610057029855" />
+    <state width="1460" height="178" key="GridCell.Tab.0.bottom" timestamp="1610056613700">
+      <screen x="927" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1460" height="178" key="GridCell.Tab.0.bottom/0.25.1440.804/927.-1055.1920.1055/-993.-1055.1920.1055@927.-1055.1920.1055" timestamp="1610056613700" />
     <state width="1398" height="205" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1609817312813" />
     <state width="1398" height="205" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.977@0.25.1920.977" timestamp="1609949306932" />
     <state width="1398" height="205" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.979@0.25.1920.979" timestamp="1609945737819" />
-    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1609949306929">
-      <screen x="0" y="25" width="1920" height="977" />
+    <state width="1460" height="178" key="GridCell.Tab.0.center" timestamp="1610056613699">
+      <screen x="927" y="-1055" width="1920" height="1055" />
     </state>
+    <state width="1460" height="178" key="GridCell.Tab.0.center/0.25.1440.804/927.-1055.1920.1055/-993.-1055.1920.1055@927.-1055.1920.1055" timestamp="1610056613699" />
     <state width="1398" height="205" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1609817312812" />
     <state width="1398" height="205" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.977@0.25.1920.977" timestamp="1609949306929" />
     <state width="1398" height="205" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.979@0.25.1920.979" timestamp="1609945737800" />
-    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1609949306924">
-      <screen x="0" y="25" width="1920" height="977" />
+    <state width="1460" height="178" key="GridCell.Tab.0.left" timestamp="1610056613698">
+      <screen x="927" y="-1055" width="1920" height="1055" />
     </state>
+    <state width="1460" height="178" key="GridCell.Tab.0.left/0.25.1440.804/927.-1055.1920.1055/-993.-1055.1920.1055@927.-1055.1920.1055" timestamp="1610056613698" />
     <state width="1398" height="205" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1609817312811" />
     <state width="1398" height="205" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.977@0.25.1920.977" timestamp="1609949306924" />
     <state width="1398" height="205" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.979@0.25.1920.979" timestamp="1609945737791" />
-    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1609949306930">
-      <screen x="0" y="25" width="1920" height="977" />
+    <state width="1460" height="178" key="GridCell.Tab.0.right" timestamp="1610056613699">
+      <screen x="927" y="-1055" width="1920" height="1055" />
     </state>
+    <state width="1460" height="178" key="GridCell.Tab.0.right/0.25.1440.804/927.-1055.1920.1055/-993.-1055.1920.1055@927.-1055.1920.1055" timestamp="1610056613699" />
     <state width="1398" height="205" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.1055@0.25.1920.1055" timestamp="1609817312812" />
     <state width="1398" height="205" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.977@0.25.1920.977" timestamp="1609949306930" />
     <state width="1398" height="205" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.979@0.25.1920.979" timestamp="1609945737805" />
+    <state width="1460" height="178" key="GridCell.Tab.1.bottom" timestamp="1610056613704">
+      <screen x="927" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1460" height="178" key="GridCell.Tab.1.bottom/0.25.1440.804/927.-1055.1920.1055/-993.-1055.1920.1055@927.-1055.1920.1055" timestamp="1610056613704" />
+    <state width="1460" height="178" key="GridCell.Tab.1.center" timestamp="1610056613702">
+      <screen x="927" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1460" height="178" key="GridCell.Tab.1.center/0.25.1440.804/927.-1055.1920.1055/-993.-1055.1920.1055@927.-1055.1920.1055" timestamp="1610056613702" />
+    <state width="1460" height="178" key="GridCell.Tab.1.left" timestamp="1610056613701">
+      <screen x="927" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1460" height="178" key="GridCell.Tab.1.left/0.25.1440.804/927.-1055.1920.1055/-993.-1055.1920.1055@927.-1055.1920.1055" timestamp="1610056613701" />
+    <state width="1460" height="178" key="GridCell.Tab.1.right" timestamp="1610056613703">
+      <screen x="927" y="-1055" width="1920" height="1055" />
+    </state>
+    <state width="1460" height="178" key="GridCell.Tab.1.right/0.25.1440.804/927.-1055.1920.1055/-993.-1055.1920.1055@927.-1055.1920.1055" timestamp="1610056613703" />
     <state x="585" y="91" key="SettingsEditor" timestamp="1609790074931">
       <screen x="0" y="25" width="1920" height="977" />
     </state>
@@ -159,5 +178,21 @@
       <screen x="0" y="25" width="1920" height="979" />
     </state>
     <state x="550" y="270" width="670" height="676" key="search.everywhere.popup/1920.25.1920.1055/0.25.1920.979@0.25.1920.979" timestamp="1609814473618" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/labs-week3/src/MileageTrackerLinkedList.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/labs-week3/src/MileageTrackerLinkedList.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
