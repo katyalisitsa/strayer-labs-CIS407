@@ -29,14 +29,15 @@ public class InventoryNode {
 
         if (headNode == null) {
             headNode = currNode;
+
         } else {
 
-            InventoryNode tempNext;
+            InventoryNode temp = headNode;
 
-            tempNext = headNode;
+            currNode.nextNodeRef = temp;
 
             headNode = currNode;
-            headNode.nextNodeRef = tempNext;
+            //headNode.nextNodeRef = currNode;
         }
 
     }
