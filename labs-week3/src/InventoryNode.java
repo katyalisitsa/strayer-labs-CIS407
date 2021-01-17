@@ -25,7 +25,19 @@ public class InventoryNode {
 
     // TODO: Define an insertAtFront() method that inserts a node at the
     //        front of the linked list (after the dummy head node)
-    public void insertAtFront(InventoryNode headNode, InventoryNode currNode){
+    public void insertAtFront(InventoryNode headNode, InventoryNode currNode) {
+
+        if (headNode == null) {
+            headNode = currNode;
+        } else {
+
+            InventoryNode tempNext;
+
+            tempNext = headNode;
+
+            headNode = currNode;
+            headNode.nextNodeRef = tempNext;
+        }
 
     }
 
