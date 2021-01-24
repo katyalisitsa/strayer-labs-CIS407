@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bc48d1a-6c77-4784-8b8b-1c2b2dbbf6ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/labs-week4/labs-week4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week4/src/WhatOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week4/src/StatePopulations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +101,7 @@
       <workItem from="1610674213537" duration="1121000" />
       <workItem from="1610767916598" duration="12632000" />
       <workItem from="1611425458153" duration="957000" />
-      <workItem from="1611502834187" duration="55000" />
+      <workItem from="1611502834187" duration="144000" />
     </task>
     <servers />
   </component>
