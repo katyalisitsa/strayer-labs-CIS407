@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bc48d1a-6c77-4784-8b8b-1c2b2dbbf6ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/labs-week3/src/Playlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs-week3/src/SongNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week3/src/ItemNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs-week3/src/ShoppingList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <workItem from="1610546251717" duration="592000" />
       <workItem from="1610674213537" duration="1121000" />
       <workItem from="1610767916598" duration="12632000" />
-      <workItem from="1611425458153" duration="737000" />
+      <workItem from="1611425458153" duration="811000" />
     </task>
     <servers />
   </component>
