@@ -114,11 +114,11 @@ public class StatePopulations {
         }
 
         Integer MyStatePopulatiom;
-        for (i = 0; i < statePopulation.size(); ++i) {
-            // TODO: Using state name, find population. Print pair info.
-            if (statePopulation.get(i).getValue1().equals(abbrevState.get(stateAbbrev).getValue2())) {
-                MyStatePopulatiom = statePopulation.get(i).getValue2();
-            }
-        }
+//        for (i = 0; i < statePopulation.size(); ++i) {
+//            // TODO: Using state name, find population. Print pair info.
+//            if (statePopulation.get(i).getValue1().equals(abbrevState.get(stateAbbrev).getValue2())) {
+//                MyStatePopulatiom = statePopulation.get(i).getValue2();
+//            }
+//        }
     }
 }
